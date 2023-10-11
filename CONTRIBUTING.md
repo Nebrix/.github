@@ -14,16 +14,18 @@ To contribute code to Nebrix, follow these steps:
 
 1. Fork the repository to your GitHub account.
 2. Create a new branch from the `main` branch for your work.
-
+ 
   ```
   git checkout -b feature/your-feature-name
   ```
+
 3. Make your code changes and commit them. Be sure to follow our coding style and keep your commits focused and descriptive.
 4. Push your branch to your forked repository.
 
    ```
    git push origin feature/your-feature-name
    ```
+   
 5. Create a pull request (PR) to the main branch of the original repository.
 6. Your PR will be reviewed, and you may be asked to make changes.
 7. Once your PR is approved, it will be merged into the project.
