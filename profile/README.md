@@ -1,28 +1,32 @@
 # Nebrix: Free & Open-Source Security Tools
 
-Welcome to Nebrix, your one-stop repository for free and open-source security tools. Nebrix is dedicated to providing the security community with a curated collection of tools, scripts, and resources to help you protect your digital assets, discover vulnerabilities, and enhance your cybersecurity skills.
+Welcome to Nebrix, your comprehensive repository of free and open-source security tools. Nebrix is dedicated to serving the cybersecurity community by providing a meticulously curated collection of tools, scripts, and resources to fortify your digital assets, uncover vulnerabilities, and elevate your cybersecurity expertise.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Tools](#tools)
+- [Recent Projects](#recent-projects)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
-Nebrix is an initiative by The Open Source Community to foster collaboration and knowledge-sharing within the cybersecurity community. Our goal is to create a central hub for free and open-source security tools, making it easier for both beginners and experienced professionals to access essential resources for securing their systems and networks.
+Nebrix is an initiative fostered by The Open Source Community, designed to facilitate collaboration and knowledge-sharing within the cybersecurity domain. Our primary objective is to establish a central hub for free and open-source security tools, simplifying the accessibility of essential resources for both novices and seasoned professionals dedicated to securing their systems and networks.
 
-## Tools
+## Recent Projects
 
-Nebrix offers a variety of security tools and resources, including but not limited to:
+Here are the three most recent projects from the Nebrix organization's GitHub repositories:
 
-- Pshark: A terminal based packet sniffer coded in python
-Explore the tools directory for more information about each tool, their use cases, and installation instructions.
+1. [Nebrix-PackageManager](https://github.com/Nebrix/Nebrix-PackageManager): Nebrix-PackageManager is a package manager for the nebrix github to download our repos without having to use github.
+2. [Pegasus](https://github.com/Nebrix/Pegasus): Pegasus is a powerful hacking shell designed for Unix-based operating systems.
+3. [Ispy](https://github.com/Nebrix/Ispy): Ispy is a python based camera framework used for finding and accessing camera on the current connected network
 
-- Pegasus: Pegasus is a powerful hacking shell designed for Unix-based operating systems.
+To access a broader selection of projects and repositories from the Nebrix organization, please visit our [Nebrix GitHub organization](https://github.com/Nebrix).
 
 ## Contributing
-We welcome contributions from the community to help expand and improve Nebrix. If you have a security tool you'd like to add or if you want to enhance an existing tool, please follow our Contribution Guidelines to get started.
 
-Before contributing, please make sure you've read and understood our [Code of Conduct.]()
+We warmly welcome contributions from the community to help augment and refine Nebrix. If you have a security tool to contribute or aspire to enhance an existing one, please review our [Contribution Guidelines](CONTRIBUTING.md) to commence your journey.
+
+Before contributing, we kindly request that you acquaint yourself with our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+Thank you for being part of the Nebrix community, and we appreciate your commitment to the security of digital ecosystems.
