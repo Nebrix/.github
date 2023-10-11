@@ -5,9 +5,6 @@ Welcome to Nebrix, your one-stop repository for free and open-source security to
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Tools](#tools)
 - [Contributing](#contributing)
 - [License](#license)
@@ -15,15 +12,6 @@ Welcome to Nebrix, your one-stop repository for free and open-source security to
 ## Introduction
 
 Nebrix is an initiative by The Open Source Community to foster collaboration and knowledge-sharing within the cybersecurity community. Our goal is to create a central hub for free and open-source security tools, making it easier for both beginners and experienced professionals to access essential resources for securing their systems and networks.
-
-## Getting Started
-
-### Prerequisites
-
-Before you can start using the tools provided by Nebrix, ensure that you have the following prerequisites in place:
-
-- **Operating System**: (e.g., Linux, Windows, macOS)
-- **Python**: (e.g., Python 3.x)
 
 ## Tools
 
