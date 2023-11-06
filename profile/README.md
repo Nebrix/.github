@@ -17,7 +17,7 @@ Nebrix is an initiative fostered by The Open Source Community, designed to facil
 
 Here are the three most recent projects from the Nebrix organization's GitHub repositories:
 
-1. [Nebrix-PackageManager](https://github.com/Nebrix/Nebrix-PackageManager): Nebrix-PackageManager is a package manager for the nebrix github to download our repos without having to use github.
+1. [Warp](https://github.com/Nebrix/Warp): Warp is a package manager for the nebrix github to download our repos without having to use github.
 2. [Pegasus](https://github.com/Nebrix/Pegasus): Pegasus is a powerful hacking shell designed for Unix-based operating systems.
 3. [Ispy](https://github.com/Nebrix/Ispy): Ispy is a python based camera framework used for finding and accessing camera on the current connected network
 
